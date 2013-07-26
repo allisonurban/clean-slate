@@ -22,6 +22,10 @@ Everything I need for a new computer.
   * `brew install git`
   * `config --global user.name "Your Full Name"`
   * `config --global user.email "your_email@example.com"`
+- Install [RVM](https://rvm.io/) and [Rails](http://rubyonrails.org/)
+  * `\curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable`
+  * `source /Users/allisonurban/.rvm/scripts/rvm` to start using RVM
+  * `type rvm | head -1` to make sure rvm is working. You should get `rvm is a function`.
 
 ## Software
 - [1Password](https://agilebits.com/onepassword)
