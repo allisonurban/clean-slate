@@ -26,6 +26,8 @@ Everything I need for a new computer.
   * `\curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable` to install RVM and Rails with [autolibs](https://rvm.io/rvm/autolibs)
   * `source /Users/allisonurban/.rvm/scripts/rvm` to start using RVM
   * `type rvm | head -1` to make sure RVM is working. You should get `rvm is a function`.
+  * `rvm install 1.9.3`
+  * `rvm --default use 1.9.3` to make 1.9.3 our default ruby version
 
 ### Resources
 - [How to Install Xcode, Homebrew, Git, RVM, Ruby & Rails on Snow Leopard, Lion, and Mountain Lion](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) by Moncef Belyamani 
