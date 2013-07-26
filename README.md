@@ -61,5 +61,6 @@ Everything I need for a new computer.
 ## Misc
 - [Printer & scanner drivers](http://www.usa.canon.com/cusa/support/consumer/printers_multifunction/pixma_mx_series/pixma_mx320#DriversAndSoftware)
 - 1Password keychain
+- [1Password Chrome extension](https://agilebits.com/extensions/mac/index.html)
 
 
