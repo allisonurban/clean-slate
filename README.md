@@ -4,6 +4,14 @@ Clean Slate
 Everything I need for a new computer.
 
 ## Dev Environment
+- Make .ssh directory & [generate new ssh key pair](https://help.github.com/articles/generating-ssh-keys)
+  * `mkdir ~/.ssh`
+  * `cd ~/.ssh`
+  * `ssh-keygen -t rsa -C "your_email@example.com"`
+- Make .bash_profile and .bash_rc and configre
+- Create symbolic link to text editor
+  * `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl` for [Sublime Text 2](http://www.sublimetext.com/)
+  * `export EDITOR='subl -w'`
 - Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) & Command Line Tools
   * Once installed, open Xcode
   * Go to File > Preferences
@@ -25,14 +33,8 @@ Everything I need for a new computer.
   * `rvm --default use 1.9.3` to make 1.9.3 our default ruby version
 - Install [Node](http://nodejs.org/)
   * `brew install node`
-- Create symbolic link to text editor
-  * `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl` for [Sublime Text 2](http://www.sublimetext.com/)
-  * `export EDITOR='subl -w'`
-- Make .ssh directory & [generate new ssh key pair](https://help.github.com/articles/generating-ssh-keys)
-  * `mkdir ~/.ssh`
-  * `cd ~/.ssh`
-  * `ssh-keygen -t rsa -C "your_email@example.com"`
-- Make .bash_profile and .bash_rc and configre
+- Install [Bundler](http://bundler.io/)
+  * `gem install bundler`
 
 ### Resources
 - [How to Install Xcode, Homebrew, Git, RVM, Ruby & Rails on Snow Leopard, Lion, and Mountain Lion](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) by Moncef Belyamani 
