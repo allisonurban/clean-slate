@@ -9,7 +9,7 @@ Everything I need for a new computer.
   * `cd ~/.ssh`
   * `ssh-keygen -t rsa -C "your_email@example.com"`
 - Make .bash_profile and .bash_rc and configre
-- Install [XCode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) & Command Line Tools
+- Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) & Command Line Tools
   * Once installed, open Xcode
   * Go to File > Preferences
   * Select Downloads and install Command Line Tools
@@ -20,6 +20,8 @@ Everything I need for a new computer.
   * `brew update` to make sure you're getting the latest formulas.
 - Install Git
   * `brew install git`
+  * `config --global user.name "Your Full Name"`
+  * `config --global user.email "your_email@example.com"`
 
 ## Software
 - [1Password](https://agilebits.com/onepassword)
