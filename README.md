@@ -4,33 +4,41 @@ Clean Slate
 Everything I need for a new computer.
 
 ## Dev Environment
-1. Make .ssh directory & [generate new ssh key pair](https://help.github.com/articles/generating-ssh-keys)
-  * `mkdir ~/.ssh`
-  * `cd ~/.ssh`
-  * `ssh-keygen -t rsa -C "your_email@example.com"`
-2. Make .bash_profile and .bash_rc and configre
-3. Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) & Command Line Tools
+- Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) & Command Line Tools
   * Once installed, open Xcode
   * Go to File > Preferences
   * Select Downloads and install Command Line Tools
   * Restart Terminal
-4. Install [Homebrew](http://brew.sh/) 
+- Install [Homebrew](http://brew.sh/) 
   * `ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
   * `brew doctor` to check that your environment is properly configured.
   * `brew update` to make sure you're getting the latest formulas.
-5. Install [Git](http://git-scm.com/)
+- Install [Git](http://git-scm.com/)
   * `brew install git`
   * `config --global user.name "Your Full Name"`
   * `config --global user.email "your_email@example.com"`
-6. Install [RVM](https://rvm.io/) and [Rails](http://rubyonrails.org/)
+- Install [RVM](https://rvm.io/) and [Rails](http://rubyonrails.org/)
   * `\curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable` to install RVM and Rails with [autolibs](https://rvm.io/rvm/autolibs)
   * `source /Users/allisonurban/.rvm/scripts/rvm` to start using RVM
   * `type rvm | head -1` to make sure RVM is working. You should get `rvm is a function`.
   * `rvm install 1.9.3`
   * `rvm --default use 1.9.3` to make 1.9.3 our default ruby version
+- Install [Node](http://nodejs.org/)
+  * `brew install node`
+- Create symbolic link to text editor
+  * `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl` for [Sublime Text 2](http://www.sublimetext.com/)
+  * `export EDITOR='subl -w'`
+- Make .ssh directory & [generate new ssh key pair](https://help.github.com/articles/generating-ssh-keys)
+  * `mkdir ~/.ssh`
+  * `cd ~/.ssh`
+  * `ssh-keygen -t rsa -C "your_email@example.com"`
+- Make .bash_profile and .bash_rc and configre
 
 ### Resources
 - [How to Install Xcode, Homebrew, Git, RVM, Ruby & Rails on Snow Leopard, Lion, and Mountain Lion](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) by Moncef Belyamani 
+- [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys) by GitHub Help
+- [Install Node With Homebrew on OSX](http://madebyhoundstooth.com/blog/install-node-with-homebrew-on-os-x/) by Rob Bennet
+- [Brew Install Specific Version Of Formula](https://coderwall.com/p/lqphzg) by Ruben Ascencio
 
 ## Software
 - [1Password](https://agilebits.com/onepassword)
