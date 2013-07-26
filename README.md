@@ -31,16 +31,22 @@ Everything I need for a new computer.
   * `type rvm | head -1` to make sure RVM is working. You should get `rvm is a function`.
   * `rvm install 1.9.3`
   * `rvm --default use 1.9.3` to make 1.9.3 our default ruby version
+- Install MySQL
+  * `brew install mysql`
 - Install [Node](http://nodejs.org/)
   * `brew install node`
 - Install [Bundler](http://bundler.io/)
   * `gem install bundler`
+- Install Apache, PHP and MySQL
+  * [This guide](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/) is awesome
+
 
 ### Resources
 - [How to Install Xcode, Homebrew, Git, RVM, Ruby & Rails on Snow Leopard, Lion, and Mountain Lion](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) by Moncef Belyamani 
 - [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys) by GitHub Help
 - [Install Node With Homebrew on OSX](http://madebyhoundstooth.com/blog/install-node-with-homebrew-on-os-x/) by Rob Bennet
 - [Brew Install Specific Version Of Formula](https://coderwall.com/p/lqphzg) by Ruben Ascencio
+- [The Hackers Way to Install Apache, PHP, MySQL and/or Wordpress on OSX Mountain Lion](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/)
 
 ## Software
 - [1Password](https://agilebits.com/onepassword)
