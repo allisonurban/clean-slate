@@ -40,6 +40,13 @@ Everything I need for a new computer.
 - Install [Bundler](http://bundler.io/)
   * `gem install bundler`
 
+### Other Gems
+- Install [Wget](http://en.wikipedia.org/wiki/Wget)
+  * `brew install wget`
+- Install [Jekyll](http://jekyllrb.com/)
+  * `sudo easy_install Pygments`
+  * `brew install wget`
+
 
 ### Resources
 - [How to Install Xcode, Homebrew, Git, RVM, Ruby & Rails on Snow Leopard, Lion, and Mountain Lion](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) by Moncef Belyamani 
@@ -49,6 +56,7 @@ Everything I need for a new computer.
 - [The Hackers Way to Install Apache, PHP, MySQL and/or Wordpress on OSX Mountain Lion](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/) by Mike Morearty
 
 ## Software
+- [CyberDuck](http://cyberduck.ch/)
 - [1Password](https://agilebits.com/onepassword)
 - [Dropbox](https://www.dropbox.com/)
 - [Day One](https://itunes.apple.com/us/app/day-one-journal-diary/id421706526?mt=8)
