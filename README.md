@@ -46,7 +46,7 @@ Everything I need for a new computer.
 - [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys) by GitHub Help
 - [Install Node With Homebrew on OSX](http://madebyhoundstooth.com/blog/install-node-with-homebrew-on-os-x/) by Rob Bennet
 - [Brew Install Specific Version Of Formula](https://coderwall.com/p/lqphzg) by Ruben Ascencio
-- [The Hackers Way to Install Apache, PHP, MySQL and/or Wordpress on OSX Mountain Lion](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/)
+- [The Hackers Way to Install Apache, PHP, MySQL and/or Wordpress on OSX Mountain Lion](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/) by Mike Morearty
 
 ## Software
 - [1Password](https://agilebits.com/onepassword)
