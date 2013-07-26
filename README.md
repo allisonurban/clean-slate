@@ -54,6 +54,6 @@ Everything I need for a new computer.
 
 ## Misc
 - [Printer & scanner drivers](http://www.usa.canon.com/cusa/support/consumer/printers_multifunction/pixma_mx_series/pixma_mx320#DriversAndSoftware)
--  set up 1password key file
+- 1Password keychain
 
 
