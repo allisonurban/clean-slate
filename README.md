@@ -33,12 +33,12 @@ Everything I need for a new computer.
   * `rvm --default use 1.9.3` to make 1.9.3 our default ruby version
 - Install MySQL
   * `brew install mysql`
+- Configure Apache & PHP
+  * [This guide](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/) is awesome
 - Install [Node](http://nodejs.org/)
   * `brew install node`
 - Install [Bundler](http://bundler.io/)
   * `gem install bundler`
-- Install Apache, PHP and MySQL
-  * [This guide](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/) is awesome
 
 
 ### Resources
