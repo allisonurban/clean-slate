@@ -9,8 +9,11 @@ Everything I need for a new computer.
   * `cd ~/.ssh`
   * `ssh-keygen -t rsa -C "your_email@example.com"`
 - Make .bash_profile and .bash_rc and configre
-- Install [XCode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
-- Install Command Line Tools
+- Install [XCode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) & Command Line Tools
+  * Once installed, open Xcode
+  * Go to File > Preferences
+  * Select Downloads and install Command Line Tools
+  * Restart Terminal
 - Install [Homebrew](http://brew.sh/) 
   * `ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
   * `brew doctor` to check that your environment is properly configured.
