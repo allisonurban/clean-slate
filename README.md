@@ -23,6 +23,7 @@ Everything I need for a new computer.
 - [Dropbox](https://www.dropbox.com/)
 - [Day One](https://itunes.apple.com/us/app/day-one-journal-diary/id421706526?mt=8)
 - [Scrivner](https://itunes.apple.com/us/app/scrivener/id418889511?mt=12)
+- [iA Writer](https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12)
 - [Colonization](https://itunes.apple.com/us/app/sid-meiers-civilization-iv/id411705368?mt=12)
 - [Civilization](https://itunes.apple.com/us/app/civilization-v-campaign-edition/id439924718?mt=12)
 - [World of Warcraft](https://us.battle.net/account/download/)
