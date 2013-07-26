@@ -8,7 +8,7 @@ Everything I need for a new computer.
   * `mkdir ~/.ssh`
   * `cd ~/.ssh`
   * `ssh-keygen -t rsa -C "your_email@example.com"`
-- Make .bash_profile and .bash_rc and configre
+- Make .bash_profile and .bash_rc & configre (see dotfiles folder)
 - Create symbolic link to text editor
   * `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl` for [Sublime Text 2](http://www.sublimetext.com/)
   * `export EDITOR='subl -w'`
