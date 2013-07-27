@@ -45,7 +45,7 @@ Everything I need for a new computer.
   * `brew install wget`
 - Install [Jekyll](http://jekyllrb.com/)
   * `sudo easy_install Pygments`
-  * `brew install wget`
+  * `brew install jekyll`
 
 
 ### Resources
