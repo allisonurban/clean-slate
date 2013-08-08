@@ -64,6 +64,7 @@ Everything I need for a new computer.
 - [Install Node With Homebrew on OSX](http://madebyhoundstooth.com/blog/install-node-with-homebrew-on-os-x/) by Rob Bennet
 - [Brew Install Specific Version Of Formula](https://coderwall.com/p/lqphzg) by Ruben Ascencio
 - [The Hackers Way to Install Apache, PHP, MySQL and/or Wordpress on OSX Mountain Lion](http://www.morearty.com/blog/2013/02/03/the-hackers-way-to-install-apache-php-mysql-and-or-wordpress-on-osx-mountain-lion/) by Mike Morearty
+- [StackOverflow: Setting Up Apache2 Localhost VirtualHosts](http://stackoverflow.com/questions/1454671/apache-2-2-localhost-virtualhosts-problems)
 
 ## Software
 - [CyberDuck](http://cyberduck.ch/)
