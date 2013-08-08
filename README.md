@@ -39,6 +39,12 @@ Everything I need for a new computer.
   * `brew install node`
 - Install [Bundler](http://bundler.io/)
   * `gem install bundler`
+- Set up [virtual hosts](http://stackoverflow.com/questions/1454671/apache-2-2-localhost-virtualhosts-problems)
+ * `subl /etc/hosts` and add virtual domains to hosts file 
+ * `subl /etc/apache2/httpd.conf` and uncomment line 463 `Include /private/etc/apache2/extra/httpd-vhosts.conf` 
+ * `subl /etc/apache2/extras/httpd-vhosts.conf` and add [virtual hosts](http://stackoverflow.com/questions/1454671/apache-2-2-localhost-virtualhosts-problems)
+ * `dscacheutil -flushcache` to flush DNS cache so hosts file changes take immediate effect
+ * `apache stop` then `apache start` to restart apache
 
 ## Nice To Haves
 - [iTerm2](http://www.iterm2.com/)
