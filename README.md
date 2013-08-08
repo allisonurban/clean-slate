@@ -40,6 +40,10 @@ Everything I need for a new computer.
 - Install [Bundler](http://bundler.io/)
   * `gem install bundler`
 
+## Nice To Haves
+- [iTerm2](http://www.iterm2.com/)
+- [Solarized](http://ethanschoonover.com/solarized)
+
 ### Other Gems
 - Install [Wget](http://en.wikipedia.org/wiki/Wget)
   * `brew install wget`
