@@ -46,9 +46,20 @@ Everything I need for a new computer.
  * `dscacheutil -flushcache` to flush DNS cache so hosts file changes take immediate effect
  * `apache stop` then `apache start` to restart apache
 
-## Nice To Haves
+## Customization
 - [iTerm2](http://www.iterm2.com/)
 - [Solarized](http://ethanschoonover.com/solarized)
+- Add default font to Notes app
+  * `subl /Applications/Notes.app/Contents/Resources/en.lproj/DefaultFonts.plist`
+  * Add the following block:
+    ```
+    <dict>
+      <key>FontName</key>
+      <string>HelveticaNeue-Light</string>
+      <key>Size</key>
+      <integer>15</integer>
+    </dict>
+    ```
 
 ### Other Gems
 - Install [Wget](http://en.wikipedia.org/wiki/Wget)
